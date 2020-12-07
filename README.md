@@ -1,2 +1,2 @@
-# material_design
+# react-test-task
 Created with CodeSandbox
